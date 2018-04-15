@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/top_bar_start_logging"
+        android:title="Start logging"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/top_bar_stop_logging"
+        android:title="Stop logging"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/topbar_export_all_files_to_matlab"
+        android:title="Export all files"
+        app:showAsAction="never" />
+
+
+    <item
+        android:id="@+id/topbar_action_delete_all_files"
+        android:title="Delete all files"
+        app:showAsAction="never" />
+
+</menu>

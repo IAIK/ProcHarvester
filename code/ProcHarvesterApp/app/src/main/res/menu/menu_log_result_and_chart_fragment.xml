@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/topbar_export_matlab"
+        android:title="Export for MatLab"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/topbar_export_log_file"
+        android:title="Export log file"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/topbar_delete_file_content"
+        android:title="Delete file content"
+        app:showAsAction="never" />
+</menu>
