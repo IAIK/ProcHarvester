@@ -1,7 +1,7 @@
 import preprocessing
 
 
-RECORD_DIR = 'session_34_android_8_touch_gestures/'
+RECORD_DIR = 'session_30_manually_started_apps/'
 
 PREPROCESS_FUNCTION = preprocessing.custom_left_neighbour_interpolate
 SKIP_FIRST_MILLISECONDS = 0
